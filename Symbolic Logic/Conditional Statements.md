@@ -43,7 +43,7 @@ Topics: [[Conditional Statements]] [[Logical Equivalence]] [[Simplifying Stateme
 ### Truth Table
 - Since $p \implies q$ is a statement, p and q may be given truth values
 - The only combination of truth values in which the conditional sentence would be false occurs when the **hypothesis** is ***true*** and the conclusion is ***false***
-	- ![](images/Pasted_image_20220918174843.png)
+	- ![](../images/Pasted_image_20220918174843.png)
 		- the conclusion does not depend on the hypothesis being true
 			- *i.e. "If I sleep in I'll be late for school"*
 			- it is possible for me to be late for school for other reasons as well
@@ -116,8 +116,8 @@ $\neg (p \implies q) \equiv p \land \neg q$
 	- denoted $\iff$
 	- abbreviated iff
 - The statement form is true if p and q are both true or both false
-	- ![](images/Pasted_image_20220918184744.png)
-- $p \iff q \equiv (p \implies q) \land (q \implies p)$![](images/Pasted_image_20220918185226.png)
+	- ![](../images/Pasted_image_20220918184744.png)
+- $p \iff q \equiv (p \implies q) \land (q \implies p)$![](../images/Pasted_image_20220918185226.png)
 
 ****
 ## Necessary and Suffiecient Conditions

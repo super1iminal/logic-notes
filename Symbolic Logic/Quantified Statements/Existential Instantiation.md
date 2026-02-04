@@ -11,7 +11,7 @@ Topics: [[Quantified Statements]]
 
 # Existential Instantiation
 
-![](images/Pasted_image_20221031210634.png)
+![](../../images/Pasted_image_20221031210634.png)
 
 ## Existential Instantiation
 - ?>?
