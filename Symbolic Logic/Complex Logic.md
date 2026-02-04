@@ -52,7 +52,7 @@ see [[Truth Tables]] for more info
 (negations of and and or)
 - The **negation** of the **conjunction** of two statements is equivalent to the disjunction of their negations
 	- $\neg(p\land q) \equiv \neg p \lor \neg q$
-	- ![](images/Pasted image 20220912192521.png)
+	- ![](images/Pasted_image_20220912192521.png)
 - The **negation** of the **disjunction** of two statements is equivalent to the **conjunction** of their negations
 	- $\neg(p\lor q) \equiv \neg p \land \neg q$
 - *Note: when applying De Margan's laws to language, be sure to have complete statements on both sides of and/or*

@@ -22,8 +22,8 @@ Topics: [[]]
 ##### Definition
 - A **predicate** is a predicate symbol togbether with suitable predicate variables
 	- can be called **propositional functions** or **open sentences**
-![](images/Pasted image 20221010181328.png)
-![](images/Pasted image 20221111004117.png)
+![](images/Pasted_image_20221010181328.png)
+![](images/Pasted_image_20221111004117.png)
 
 
 ##### Example
@@ -38,11 +38,11 @@ James is a student at Bedford College
 
 ## Truth Set
 - The set of all elements that make the predicate true
-![](images/Pasted image 20221010181508.png)
+![](images/Pasted_image_20221010181508.png)
 - The set of all x in D such that P(x)
 
 ##### Example
-![](images/Pasted image 20221010181702.png)
+![](images/Pasted_image_20221010181702.png)
 
 
 
@@ -65,7 +65,7 @@ James is a student at Bedford College
 	- *e.g. For all real numbers x and y, x+y = y+x.*
 		- $\forall$ real numbesr x and y, x + y = y +x
 - Sentences that are quantified universally are defined as statements by giving them the truth values specified in this definition:
-	- ![](images/Pasted image 20221010183042.png)
+	- ![](images/Pasted_image_20221010183042.png)
 - Testing every element of the domain for the truth of the predicate is called **method of exaustion**
 	- can be used whenever the domain of the predicate variable is finite
 
@@ -89,11 +89,11 @@ James is a student at Bedford College
 - Can be used to refer to two predicate variables
 	- $\exists$ integers *m* and *n* syuch that m + n = m * n
 - Defined as statements by giving them the truth values in the following definition
-	- ![](images/Pasted image 20221010184155.png)
+	- ![](images/Pasted_image_20221010184155.png)
 - Basically the opposite of the universal quantifier (super easy to prove true)
 - Something being existentially quantified means it has a definite value
 - If statements with the universal quantifier are useless
-	- ![](images/Pasted image 20221111004520.png)
+	- ![](images/Pasted_image_20221111004520.png)
 	- there need not be an instructor that teaches CPSC121
 
 
@@ -128,11 +128,11 @@ James is a student at Bedford College
 ## Negation of Quantified Statements
 #### Negation of a Universal Statement
 - The negation of a universal quantifier (for all) is logically equivalent to an existential statement (there's at least one that isn't)
-![](images/Pasted image 20221024231012.png)
+![](images/Pasted_image_20221024231012.png)
 
 #### Negation of an Existential Statement
 - The negation of an existential quantifier (there is one) is logically equivalent to a universal statement (none are)
-![](images/Pasted image 20221024231321.png)
+![](images/Pasted_image_20221024231321.png)
 
 
 ## Relationship between Quantifiers and AND, OR
@@ -148,7 +148,7 @@ James is a student at Bedford College
 - **A statement is false if and only if its negation is true**
 - If its negation is false, then the statement is, by default, true
 - *If you have a collection of blue balls and grey balls, if no balls are in a bowl, then the statement "All the balls in the bowl are blue" is true, because there does not exist "A ball in the bowl that is not blue", yet that is the negation*
-![](images/Pasted image 20221024232248.png)
+![](images/Pasted_image_20221024232248.png)
 - **In general means that something is always true**
 
 
@@ -169,15 +169,15 @@ James is a student at Bedford College
 - $\neg P \implies Q\equiv P \land \neg Q$
 
 #### Variants Extended from Conditional Statements
-![](images/Pasted image 20221024232643.png)
+![](images/Pasted_image_20221024232643.png)
 - A universal conditional statement is logically equivalent to its contrapositive
-	- ![](images/Pasted image 20221024232750.png)
+	- ![](images/Pasted_image_20221024232750.png)
 - However, it is not logically equivalent to its converse or its inverse
 
 ## Necessary and Sufficient Conditions, Only If
 
 ##### Example
-![](images/Pasted image 20221010185526.png)
+![](images/Pasted_image_20221010185526.png)
 
 
 ## Bound Variables and Scope
@@ -193,21 +193,21 @@ James is a student at Bedford College
 - A statement may not have a quantifier or a domain, but instaed have them implied through what is normal
 - A double arrow is used to indicate implicit quantification symbolically
 
-![](images/Pasted image 20221010191727.png)![](images/Pasted image 20221010191729.png)
+![](images/Pasted_image_20221010191727.png)![](images/Pasted_image_20221010191729.png)
 
-![](images/Pasted image 20221010191745.png)
+![](images/Pasted_image_20221010191745.png)
 
 ## Tarski's World
 - A simple program made for testing your skills in logic. A grid populated with coloured shapes that can be compared to one another. 
 **example:
-![](images/Pasted image 20221024230529.png)
+![](images/Pasted_image_20221024230529.png)
 
 
 ## Multiple Quantifiers
 - Multiple quantifiers and the actions imposed onto them are read in the order that they are given
 - The first
 
-![](images/Pasted image 20221110214416.png)
+![](images/Pasted_image_20221110214416.png)
 
 ##### Example
 $\exists x \in D | \forall y \in E$, x and y satisfy P(x, y)
@@ -224,23 +224,23 @@ $\forall x \in D | \exists y \in E$, x and y satisfy P(x, y)
 	- $\neg (\forall x \in D, \exists y \in E | P(x, y) )$
 	- $\exists x \in D, \neg(\exists y \in E | P(x, y))$
 	- etc.
-![](images/Pasted image 20221110220634.png)
+![](images/Pasted_image_20221110220634.png)
 
 #### Order of Quantifiers
-![](images/Pasted image 20221110220826.png)
+![](images/Pasted_image_20221110220826.png)
 - Quantifiers, or quantifiers and their statements (quantified variables)
-![](images/Pasted image 20221110220838.png)
+![](images/Pasted_image_20221110220838.png)
 - Everyone loves someone
 - Someone is loved by everyone
 
 
 - However, if two quantifiers of the same type follow each other, they can be interchanged and even combined
-![](images/Pasted image 20221110221014.png)
-![](images/Pasted image 20221110221019.png)
+![](images/Pasted_image_20221110221014.png)
+![](images/Pasted_image_20221110221019.png)
 
 
 ## Formal Logic Notation
-![](images/Pasted image 20221110222613.png)
+![](images/Pasted_image_20221110222613.png)
 
 
 ****

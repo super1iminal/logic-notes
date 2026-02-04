@@ -15,7 +15,7 @@ Topics: [[Basic Logic]] [[Complex Logic]] [[Conditional Proofs]]
 - An argument is not a dispute, it is a sequence of statements ending in a conclusion
 - The validity of an argument is whether the conclusion follows *necessarily* from the preceeding stastements'
 - An argument form is valid **if, and only if**, whenever statements are subsituted into statement forms that make all the premises true, the conclusion is also true
-![](images/Pasted image 20221003211918.png)
+![](images/Pasted_image_20221003211918.png)
 - Statement form is a bunch of statement variables connected by logical connectives
 
 ##### Crucial Information
@@ -66,8 +66,8 @@ Topics: [[Basic Logic]] [[Complex Logic]] [[Conditional Proofs]]
 - A good way to picture the validity of an argument form is to just plug in T for every possible location and just probe around yk
 
 ##### Example
-![](images/Pasted image 20221003212700.png)
-![](images/Pasted image 20221003212815.png)
+![](images/Pasted_image_20221003212700.png)
+![](images/Pasted_image_20221003212815.png)
 - Row with arrow shows that an argument of this form can have true premises and a false conclusion, so this form of argument is invalid
 
 ## Proving Invalidity
@@ -89,12 +89,12 @@ Topics: [[Basic Logic]] [[Complex Logic]] [[Conditional Proofs]]
 
 ##### A Valid Argument with a False premise and a False Conclusion
 - Valid by modus ponens but its major premise and its conclusion are false
-![](images/Pasted image 20221003223357.png)
+![](images/Pasted_image_20221003223357.png)
 
 
 ##### An Invalid Argument with True Premises and a True Conclusion
 - Invalid by the converse error but it has a true conclusion
-![](images/Pasted image 20221003223432.png)
+![](images/Pasted_image_20221003223432.png)
 
 
 ****
@@ -108,7 +108,7 @@ Topics: [[Basic Logic]] [[Complex Logic]] [[Conditional Proofs]]
 
 
 **Summary:**
-![](images/Pasted image 20221003224450.png)
+![](images/Pasted_image_20221003224450.png)
 
 ****
 #### Modus Ponens and Tollens
@@ -118,7 +118,7 @@ Topics: [[Basic Logic]] [[Complex Logic]] [[Conditional Proofs]]
 
 ##### Modus Ponens
 - The most famous form of syllogism is called **modus ponens**
-![](images/Pasted image 20221003213128.png)
+![](images/Pasted_image_20221003213128.png)
 - Modus Ponens means **method of affirming** (the conclusion is an afffirmation)
 	- basically, the truth is obvious from the arguments
 - It is instructive because it confirms the agreement between the formal definition of validity and the intuitive concept
@@ -128,66 +128,66 @@ e.g.
 
 
 ##### Modus Tollens
-- ![](images/Pasted image 20221003213443.png)
+- ![](images/Pasted_image_20221003213443.png)
 - Modus Tollens means **method of denying** (the conclusion is a denial)
 - The validity of modus tollens follows from modus ponens and the fact that a conditional statement is logically equivcalent to its contrapositive
 
 e.g.
-![](images/Pasted image 20221003213450.png)
+![](images/Pasted_image_20221003213450.png)
 
 ****
 ##### Generalization (conjunction)
-![](images/Pasted image 20221003213924.png)
+![](images/Pasted_image_20221003213924.png)
 - Used for making generalizations
 - According to a., if p is true, then, more generally, p or q is try for any other statement q
 
 trying to find upperclassmen at a school
-![](images/Pasted image 20221003214031.png)
+![](images/Pasted_image_20221003214031.png)
 
 
 ##### Specialization
-![](images/Pasted image 20221003214048.png)
+![](images/Pasted_image_20221003214048.png)
 - Used when classifying objects according to some property, youoften know much more about them than that one property
 - Used to discard extraneous information
 - Simpler than it appears
 - You can discard multiple extraneous info at once
 
 trying to find a graph algorithm worker
-![](images/Pasted image 20221003214226.png)
+![](images/Pasted_image_20221003214226.png)
 
 
 ##### Elimination
-![](images/Pasted image 20221003214250.png)
+![](images/Pasted_image_20221003214250.png)
 - When you have two possibilities and you can rule one out, the other must be the case
 
 ![[Pasted image 20221003214341.png|500]]
 
 
 ##### Transitivity
-![](images/Pasted image 20221003221738.png)
+![](images/Pasted_image_20221003221738.png)
 - Chains of if-then statements
 - if the first statement implies the second, and the second the third, then the first implies the third
-![](images/Pasted image 20221003221944.png)
+![](images/Pasted_image_20221003221944.png)
 
 
 ##### Proof by Division into Cases
-![](images/Pasted image 20221004132231.png)
+![](images/Pasted_image_20221004132231.png)
 - if both p and q lead to a conclusion, p or q will necessarily lead to that conclusion
 
 
 ##### Resolution
-![](images/Pasted image 20221004132439.png)
+![](images/Pasted_image_20221004132439.png)
 
 
 ##### Contradiction
-![](images/Pasted image 20221004132542.png)
+![](images/Pasted_image_20221004132542.png)
 
 
 ****
 ##### *Example*
-![](images/Pasted image 20221003222043.png)
-![](images/Pasted image 20221003222052.png)
-![](images/Pasted image 20221003222158.png)
+![](images/Pasted_image_20221003222043.png)
+![](images/Pasted_image_20221003222052.png)
+![](images/Pasted_image_20221003222158.png)
 
 
 
@@ -208,13 +208,13 @@ trying to find a graph algorithm worker
 
 
 ##### Converse Error
-![](images/Pasted image 20221003222815.png)
+![](images/Pasted_image_20221003222815.png)
 - The fallacy is that the conclusion of the argument would follow from the premises if the premise $p \implies q$ were replaced by its converse
 	- such a replacement is not allowed because a conditional statement is not logically equivalent to its converse (only biconditional statements are)
 - Known as **fallacy of affirming the consequent**
 
 
-![](images/Pasted image 20221003222605.png)
+![](images/Pasted_image_20221003222605.png)
 - The first premise gives information about Zeke *if* it is known he is a cheater
 	- if doesn't give information about him if it is not already known that he is a cheater
 - A person may not be a cheater but happens to sit in the back row
@@ -222,12 +222,12 @@ trying to find a graph algorithm worker
 
 
 ##### Inverse Error
-![](images/Pasted image 20221003223007.png)
+![](images/Pasted_image_20221003223007.png)
 - Inverse error because the conclusion of the the argument would follow if the premise were replaced by its inverse
 	- a conditional statement is not logically equivalent to its inverse
 	- Inverse error is known as the fallacy of denying the antecedent
 
-![](images/Pasted image 20221003223014.png)
+![](images/Pasted_image_20221003223014.png)
 
 
 
@@ -242,7 +242,7 @@ trying to find a graph algorithm worker
 
 
 - p is some statement whose truth you wish to deduce
-![](images/Pasted image 20221003224041.png) ![[Pasted image 20221003224052.png|400]]
+![](images/Pasted_image_20221003224041.png) ![[Pasted image 20221003224052.png|400]]
 ![[Pasted image 20221003224102.png|400]]
 
 
@@ -250,12 +250,12 @@ trying to find a graph algorithm worker
 - island contains:
 	- knights who always tell the truth
 	- knaves who always lie
-![](images/Pasted image 20221003224233.png)
+![](images/Pasted_image_20221003224233.png)
 - What are A and B?
 	- They are both knaves
-![](images/Pasted image 20221003224257.png)
+![](images/Pasted_image_20221003224257.png)
 A is a knave, so...
-![](images/Pasted image 20221003224348.png)
+![](images/Pasted_image_20221003224348.png)
 
 
 

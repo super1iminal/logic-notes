@@ -22,7 +22,7 @@ A contradiction is a statement form that is always false regardless of the truth
 ##### Example
 $p\lor\sim p$ is a **tautology**
 $p\land\sim p$ is a **contradiction**
-![](images/Pasted image 20220912193823.png)
+![](images/Pasted_image_20220912193823.png)
 *Note: this doesn't evaluate FF and TT, but think about it*
 
 ### Logical Equivalence of Tautologies and Contradictions
@@ -31,7 +31,7 @@ $p\land\sim p$ is a **contradiction**
 if $t$ is a tautology and $c$ is a contradiction, show that $p\lor t \equiv t$ and $p \land c \equiv c$
 - $p \lor t$ is logically equivalent to $p$ and **is** a tautology
 - $p \land c$ is logically equivalent to $c$ and **is** a contradiction
-![](images/Pasted image 20220912194345.png)
+![](images/Pasted_image_20220912194345.png)
 
 **However,**
 - $p \land t$ is logically equivalent to $p$ and is **not** a tautology

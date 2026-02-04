@@ -12,7 +12,7 @@ Topics: [[]]
 
 # Equivalence Proofs
 - Usually to show logical equivalence
-![](images/Pasted image 20221001204503.png)
+![](images/Pasted_image_20221001204503.png)
 
 
 

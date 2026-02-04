@@ -19,8 +19,8 @@ Topics: [[Complex Logic]]
 	- contradictions are valid too
 - To prove invalidity, chose a combination of T and F to make conclusion false and premises true
 
-![](images/Pasted image 20221004125230.png)
-![](images/Pasted image 20221004125336.png)
+![](images/Pasted_image_20221004125230.png)
+![](images/Pasted_image_20221004125336.png)
 
 ##### Propositional Logic Proofs
 - Use rules to create new premises to try to get to conclusion
@@ -36,7 +36,7 @@ Topics: [[Complex Logic]]
 	- keep numbering them
 4. Equivalence laws may be used (since its the same truth tables)
 
-![](images/Pasted image 20221003224450.png)
+![](images/Pasted_image_20221003224450.png)
 
 ****
 ## Relevant Links

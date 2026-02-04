@@ -27,7 +27,7 @@ Topics: [[Complex Logic]] [[Evaluating Statement Forms]]
 - It is also possible to show nonequivalence by replacing statement
 - Note that nonequivalence cannot be proved simply using a list of logical equivalences, however, sometimes one can quickly see that two statemetn frosm are equivalent using theorem 2.1.1
 ##### Example
-![](images/Pasted image 20220912191922.png)
+![](images/Pasted_image_20220912191922.png)
 
 
 

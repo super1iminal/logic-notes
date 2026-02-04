@@ -12,7 +12,7 @@ Topics: [[]]
 
 # Proof for Flipping Xs
 $-x = 2^n - x$
-![](images/Pasted image 20220929130310.png)
+![](images/Pasted_image_20220929130310.png)
 
 
 

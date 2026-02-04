@@ -13,7 +13,7 @@ Topics: [[Quantified Statements]]
 - Turning compound statements into predicates, basically. Quantification of satements.
 	- quantification being quantifying the number of applications the statement applies to
 
-![](images/Pasted image 20221031192051.png)
+![](images/Pasted_image_20221031192051.png)
 
 
 ## Types of Universal Instantiation
@@ -21,14 +21,14 @@ Topics: [[Quantified Statements]]
 - mod. ponens and tollens
 - universal transitivity
 
-![](images/Pasted image 20221031192120.png)
+![](images/Pasted_image_20221031192120.png)
 
-![](images/Pasted image 20221031192127.png)
+![](images/Pasted_image_20221031192127.png)
 
-![](images/Pasted image 20221031192034.png)
+![](images/Pasted_image_20221031192034.png)
 
 ## Quantified Error
-![](images/Pasted image 20221031192439.png)
+![](images/Pasted_image_20221031192439.png)
 
 ## Abduction
 - Basically practically applied converse error. Strong assumptions based off of invalid arguments

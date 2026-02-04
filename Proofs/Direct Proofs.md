@@ -12,17 +12,17 @@ Topics: [[Quantified Statements]] [[Universal Instantiation]]
 # Direct Proofs
 
 ## Assumptions
-![](images/Pasted image 20221031192845.png)
+![](images/Pasted_image_20221031192845.png)
 
 
 ## Odd vs. Even
-![](images/Pasted image 20221031192922.png)
+![](images/Pasted_image_20221031192922.png)
 - sometimes the only-if part is omitted, but must be retained in memory and in formal proofs
 
-![](images/Pasted image 20221031193212.png)
+![](images/Pasted_image_20221031193212.png)
 
 ## Prime vs. Composite
-![](images/Pasted image 20221031193902.png)
+![](images/Pasted_image_20221031193902.png)
 
 
 
@@ -44,11 +44,11 @@ Topics: [[Quantified Statements]] [[Universal Instantiation]]
 
 # Proofs of Universality
 ### Disproving Universal Statements by Counter Example
-![](images/Pasted image 20221031204356.png)
+![](images/Pasted_image_20221031204356.png)
 - Only one counter example is needed to disprove
-![](images/Pasted image 20221031204457.png)
+![](images/Pasted_image_20221031204457.png)
 
-![](images/Pasted image 20221115193905.png)
+![](images/Pasted_image_20221115193905.png)
 
 ### Proving Universal Statements (Direct Proof)
 - $\forall x \in D, P(x) \implies Q(x)$
@@ -56,7 +56,7 @@ Topics: [[Quantified Statements]] [[Universal Instantiation]]
 - In most mathematical situations, the method of exahstion cannot be used (infninite sets or very long finite range)
 - **Universal generalization**
 	- Generalizing from the generic particular
-	- ![](images/Pasted image 20221031204826.png)
+	- ![](images/Pasted_image_20221031204826.png)
 - x holds no exact value, rather it is a particular representation of any arbitrary element of the set
 	- The point is to make an x be generic is to make a proof generalized to all elements of the domain
 	- *You are making **no special assumptions** about x*
@@ -64,7 +64,7 @@ Topics: [[Quantified Statements]] [[Universal Instantiation]]
 - Result of generalizing from the generic particular applied to a universal conditional is the **direct proof**
 	- If you can show that P(x) compels the truth of Q(x), then the statement will have been proven
 		- statement can only be false if P(x) is true and Q(x) is false)
-![](images/Pasted image 20221031205305.png)
+![](images/Pasted_image_20221031205305.png)
 - this is basically arguments all over again. the validity, now the "proof", is the outcome of rules of inference on various statements
 
 extra steps
@@ -108,7 +108,7 @@ notes on proving even/odd
 	- e.g. squaring is simplier than square rooting
 
 ## Example Proof
-![](images/Pasted image 20221031205952.png)
+![](images/Pasted_image_20221031205952.png)
 
 ## Identifying the Starting Point and the Conclusion to be Shown
 - Write the first sentence of a proof (the starting point) and the last sentence (the "conclusion to be shown")
